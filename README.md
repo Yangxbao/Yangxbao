@@ -62,7 +62,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangxbao&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Langs" />
 
+<!-- 📈 贡献活动曲线（可选）：github-readme-activity-graph 服务可用时取消注释
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yangxbao&hide_border=true&bg_color=161B22&color=E6EDF3&title_color=58A6FF&line=58A6FF&point=EC4899&area=true&area_color=7C3AED&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8%E6%9B%B2%E7%BA%BF" width="100%" alt="贡献活动曲线" />
+-->
 
 </div>
 

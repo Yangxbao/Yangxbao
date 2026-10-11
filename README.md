@@ -68,13 +68,13 @@
 
 </div>
 
-## 🐍 贡献图
+## ✨ 贡献日历 · 点阵流光
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake.svg" alt="Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/calendar-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/calendar-light.svg" alt="贡献日历 · 点阵流光" />
 </picture>
 
 </div>

@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I%27m+Yangxbao+%F0%9F%91%8B;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E5%A4%A7%E4%B8%89%E5%9C%A8%E8%AF%BB%20%F0%9F%8E%93;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%20%F0%9F%94%8D;Keep+Building%2C+Keep+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-
-# 你好，我是 Yangxbao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Yangxbao&fontSize=80&fontColor=FFFFFF&color=0:58A6FF,50:7C3AED,100:EC4899&animation=twinkling&desc=%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E5%A4%A7%E4%B8%89%E5%9C%A8%E8%AF%BB%20%7C%20%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A&descSize=18&descAlignY=74" width="100%" alt="Yangxbao Banner" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider" />
 
 **🎓 信息管理与信息系统 · 大三在读 · 🔍 正在找实习 / 求职中**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=700&size=28&duration=2800&pause=1100&color=7C3AED&center=true&vCenter=true&width=620&height=60&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%20%F0%9F%9A%80;%E4%BB%8E%E8%AF%BE%E5%A0%82%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%EF%BC%8C%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%20%F0%9F%9B%A0%EF%B8%8F;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%20%C3%97%20%E7%BC%96%E7%A8%8B%20%3D%20%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%20%E2%9A%A1;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%AD%89%E4%B8%80%E4%B8%AA%E8%88%9E%E5%8F%B0%20%F0%9F%94%8D;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%AF%94%E6%98%A8%E5%A4%A9%E6%9B%B4%E5%BC%BA%20%F0%9F%92%AA" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
@@ -61,6 +62,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangxbao&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Langs" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yangxbao&hide_border=true&bg_color=161B22&color=E6EDF3&title_color=58A6FF&line=58A6FF&point=EC4899&area=true&area_color=7C3AED&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8%E6%9B%B2%E7%BA%BF" width="100%" alt="贡献活动曲线" />
+
 </div>
 
 ## 🐍 贡献图
@@ -90,6 +93,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/感谢阅读-欢迎_Follow_⭐-58a6ff?style=for-the-badge" alt="Thanks" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=THANKS%20FOR%20VISITING&fontSize=32&fontColor=FFFFFF&color=0:58A6FF,50:7C3AED,100:EC4899&animation=fadeIn" width="100%" alt="Footer" />
 
 </div>

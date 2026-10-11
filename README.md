@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
 [![Stars](https://img.shields.io/github/stars/Yangxbao?affiliations=OWNER&style=flat-square&color=e3b341&label=Stars)](https://github.com/Yangxbao?tab=repositories)
-![Repo](https://img.shields.io/badge/公共仓库-4-3fb950?style=flat-square)
+![Repo](https://img.shields.io/badge/公共仓库-6-3fb950?style=flat-square)
 
 </div>
 
@@ -22,7 +22,7 @@
 🎓 信息管理与信息系统专业 · 大三在读
 🌱 正在努力学习专业知识，夯实开发基础
 🔍 当前状态：寻找实习 / 校招机会
-🛠️ 课余喜欢造工具：DocMind · CleanSweep · QRCode-Aggregate
+🛠️ 课余喜欢造工具：安全签到小程序 · RAG 知识库 · 系统清理 · 扫码聚合
 🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
 ```
 
@@ -48,8 +48,9 @@
 
 | | |
 |:---:|:---:|
-| <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> | <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> |
-| <a href="https://github.com/Yangxbao/QRCode-Aggregate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QRCode-Aggregate&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QRCode-Aggregate"/></a> | <a href="https://github.com/Yangxbao/wecat-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=wecat-demo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="wecat-demo"/></a> |
+| <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
+| <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> | <a href="https://github.com/Yangxbao/QRCode-Aggregate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QRCode-Aggregate&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QRCode-Aggregate"/></a> |
+| <a href="https://github.com/Yangxbao/wecat-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=wecat-demo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="wecat-demo"/></a> | |
 
 </div>
 
@@ -68,13 +69,13 @@
 
 </div>
 
-## ✨ 贡献日历 · 点阵流光
+## 🐍 贡献图
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/calendar-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/calendar-light.svg" alt="贡献日历 · 点阵流光" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake.svg" alt="Contribution Snake" />
 </picture>
 
 </div>

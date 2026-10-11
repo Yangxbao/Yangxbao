@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I%27m+Yangxbao+%F0%9F%91%8B;Doctor+%F0%9F%A9%BA+by+day%2C+Coder+%F0%9F%92%BB+by+night;Keep+Building%2C+Keep+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I%27m+Yangxbao+%F0%9F%91%8B;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E5%A4%A7%E4%B8%89%E5%9C%A8%E8%AF%BB%20%F0%9F%8E%93;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%20%F0%9F%94%8D;Keep+Building%2C+Keep+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 # 你好，我是 Yangxbao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**🩺 医学博士 · 👨‍💻 编程爱好者 · 🛠️ 喜欢造实用的小工具**
+**🎓 信息管理与信息系统 · 大三在读 · 🔍 正在找实习 / 求职中**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
@@ -18,11 +18,11 @@
 ## 🧭 关于我
 
 ```text
-🩺 医学背景，业余时间沉迷写代码
-🔭 目前在做：DocMind —— 本地优先的 RAG 文档知识库
-🌱 正在学习：Spring Boot 3 / Vue 3 / RAG 应用
-🎯 目标：用代码解决生活中的实际问题
-⚡ 有趣的事：会写飞行射击小游戏，也研究 Windows 清理工具
+🎓 信息管理与信息系统专业 · 大三在读
+🌱 正在努力学习专业知识，夯实开发基础
+🔍 当前状态：寻找实习 / 校招机会
+🛠️ 课余喜欢造工具：DocMind · CleanSweep · QRCode-Aggregate
+🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
 ```
 
 ## 🛠️ 技术栈

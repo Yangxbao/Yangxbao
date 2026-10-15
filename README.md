@@ -5,12 +5,13 @@
 
 **🎓 信息管理与信息系统 · 大三在读 · 🔍 正在找实习 / 求职中**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&weight=700&size=28&duration=2800&pause=1100&color=7C3AED&center=true&vCenter=true&width=620&height=60&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%20%F0%9F%9A%80;%E4%BB%8E%E8%AF%BE%E5%A0%82%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%EF%BC%8C%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%20%F0%9F%9B%A0%EF%B8%8F;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%20%C3%97%20%E7%BC%96%E7%A8%8B%20%3D%20%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%20%E2%9A%A1;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%AD%89%E4%B8%80%E4%B8%AA%E8%88%9E%E5%8F%B0%20%F0%9F%94%8D;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%AF%94%E6%98%A8%E5%A4%A9%E6%9B%B4%E5%BC%BA%20%F0%9F%92%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=2800&pause=1100&color=7C3AED&center=true&vCenter=true&width=620&height=60&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%20%F0%9F%9A%80;%E4%BB%8E%E8%AF%BE%E5%A0%82%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%EF%BC%8C%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%20%F0%9F%9B%A0%EF%B8%8F;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%20%C3%97%20%E7%BC%96%E7%A8%8B%20%3D%20%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%20%E2%9A%A1;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%AD%89%E4%B8%80%E4%B8%AA%E8%88%9E%E5%8F%B0%20%F0%9F%94%8D;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%AF%94%E6%98%A8%E5%A4%A9%E6%9B%B4%E5%BC%BA%20%F0%9F%92%AA" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
 [![Stars](https://img.shields.io/github/stars/Yangxbao?affiliations=OWNER&style=flat-square&color=e3b341&label=Stars)](https://github.com/Yangxbao?tab=repositories)
-![Repo](https://img.shields.io/badge/公共仓库-6-3fb950?style=flat-square)
+![Repo](https://img.shields.io/badge/公共仓库-7-3fb950?style=flat-square)
+![Focus](https://img.shields.io/badge/方向-Java_后端_%2F_Android-7C3AED?style=flat-square)
 
 </div>
 
@@ -22,9 +23,15 @@
 🎓 信息管理与信息系统专业 · 大三在读
 🌱 正在努力学习专业知识，夯实开发基础
 🔍 当前状态：寻找实习 / 校招机会
-🛠️ 课余喜欢造工具：安全签到小程序 · RAG 知识库 · 系统清理 · 扫码聚合
+🛠️ 课余喜欢造工具：安全签到小程序 · RAG 知识库 · 系统清理 · 扫码聚合 · 本地刷题
 🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
 ```
+
+## 🎯 近期在做
+
+- 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)
+- 🧹 **[CleanSweep](https://github.com/Yangxbao/CleanSweep)** — Windows 彻底卸载与残留清理工具，持续打磨清理规则
+- 📚 补基础：数据结构与算法、Java / Spring 生态，为实习做准备
 
 ## 🛠️ 技术栈
 
@@ -34,10 +41,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,vue,python,kotlin,android,html,css,js,git,github,vscode&perline=12" alt="Tech Stack" />
 </a>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-知识库-8A2BE2?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=flat-square)
+![Room](https://img.shields.io/badge/Room-本地数据库-3DDC84?style=flat-square)
+![ML Kit](https://img.shields.io/badge/ML_Kit-离线OCR-4285F4?logo=google&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 </div>
@@ -48,9 +58,9 @@
 
 | | |
 |:---:|:---:|
-| <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
-| <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> | <a href="https://github.com/Yangxbao/QRCode-Aggregate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QRCode-Aggregate&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QRCode-Aggregate"/></a> |
-| <a href="https://github.com/Yangxbao/wecat-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=wecat-demo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="wecat-demo"/></a> | |
+| <a href="https://github.com/Yangxbao/QuizMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QuizMaster&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QuizMaster"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
+| <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> |
+| <a href="https://github.com/Yangxbao/QRCode-Aggregate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QRCode-Aggregate&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QRCode-Aggregate"/></a> | <a href="https://github.com/Yangxbao/wecat-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=wecat-demo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="wecat-demo"/></a> |
 
 </div>
 

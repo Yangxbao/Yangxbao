@@ -10,8 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
 [![Stars](https://img.shields.io/github/stars/Yangxbao?affiliations=OWNER&style=flat-square&color=e3b341&label=Stars)](https://github.com/Yangxbao?tab=repositories)
-![Repo](https://img.shields.io/badge/公共仓库-7-3fb950?style=flat-square)
-![Focus](https://img.shields.io/badge/方向-Java_后端_%2F_Android-7C3AED?style=flat-square)
+![Repo](https://img.shields.io/badge/公共仓库-9-3fb950?style=flat-square)
+![Focus](https://img.shields.io/badge/方向-Java_全栈_%2F_AI_应用-7C3AED?style=flat-square)
 
 </div>
 
@@ -23,12 +23,14 @@
 🎓 信息管理与信息系统专业 · 大三在读
 🌱 正在努力学习专业知识，夯实开发基础
 🔍 当前状态：寻找实习 / 校招机会
-🛠️ 课余喜欢造工具：安全签到小程序 · RAG 知识库 · 系统清理 · 扫码聚合 · 本地刷题
+🛠️ 课余喜欢造工具：岗位模拟平台 · 代码库问答 Agent · 刷题 App · 安全签到 · RAG 知识库
 🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
 ```
 
 ## 🎯 近期在做
 
+- 🧪 **[jobsim-ai](https://github.com/Yangxbao/jobsim-ai)** — 岗位实战模拟练习平台：52 个模拟任务 + 结构化评估反馈 + 能力分析（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
+- 🤖 **[repopilot-ai](https://github.com/Yangxbao/repopilot-ai)** — 代码库知识问答与 Bug 分析 Agent（RAG：导入→索引→检索→证据→引用来源）
 - 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)
 - 🧹 **[CleanSweep](https://github.com/Yangxbao/CleanSweep)** — Windows 彻底卸载与残留清理工具，持续打磨清理规则
 - 📚 补基础：数据结构与算法、Java / Spring 生态，为实习做准备
@@ -52,6 +54,12 @@
 
 </div>
 
+### 技能状态
+
+**已经实践**（做过完整项目并解决过实际问题）：Java · Spring Boot · MyBatis-Plus · Spring Security/JWT · Vue 3 · Element Plus · Kotlin / Android · Python
+
+**正在学习**（有 demo 与教程实践，尚未在项目中独立运用）：Redis 高阶 · 消息队列 · 微服务与分布式 · JVM 深度调优 · 算法进阶
+
 ## 🚀 精选项目
 
 <div align="center">
@@ -60,7 +68,7 @@
 |:---:|:---:|
 | <a href="https://github.com/Yangxbao/QuizMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QuizMaster&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QuizMaster"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
 | <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> |
-| <a href="https://github.com/Yangxbao/QRCode-Aggregate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QRCode-Aggregate&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QRCode-Aggregate"/></a> | <a href="https://github.com/Yangxbao/wecat-demo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=wecat-demo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="wecat-demo"/></a> |
+| <a href="https://github.com/Yangxbao/repopilot-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=repopilot-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="repopilot-ai"/></a> | <a href="https://github.com/Yangxbao/jobsim-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=jobsim-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="jobsim-ai"/></a> |
 
 </div>
 

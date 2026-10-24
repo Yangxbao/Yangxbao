@@ -29,7 +29,7 @@
 
 ## 🎯 近期在做
 
-- 🧪 **[jobsim-ai](https://github.com/Yangxbao/jobsim-ai)** — 岗位实战模拟练习平台：52 个模拟任务 + 结构化评估反馈 + 能力分析（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
+- 🧪 **[OfferDojo](https://github.com/Yangxbao/OfferDojo)** — 岗位实战模拟练习平台：214 个模拟任务（基础→企业实战四档）+ 10 阶段学习路线图 + 八股复习区 + 追问模拟面试（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
 - 🤖 **[repopilot-ai](https://github.com/Yangxbao/repopilot-ai)** — 代码库知识问答与 Bug 分析 Agent（RAG：导入→索引→检索→证据→引用来源）
 - 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)
 - 🧹 **[CleanSweep](https://github.com/Yangxbao/CleanSweep)** — Windows 彻底卸载与残留清理工具，持续打磨清理规则
@@ -68,7 +68,7 @@
 |:---:|:---:|
 | <a href="https://github.com/Yangxbao/QuizMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QuizMaster&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QuizMaster"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
 | <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> |
-| <a href="https://github.com/Yangxbao/repopilot-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=repopilot-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="repopilot-ai"/></a> | <a href="https://github.com/Yangxbao/jobsim-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=jobsim-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="jobsim-ai"/></a> |
+| <a href="https://github.com/Yangxbao/repopilot-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=repopilot-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="repopilot-ai"/></a> | <a href="https://github.com/Yangxbao/jobsim-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=OfferDojo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="jobsim-ai"/></a> |
 
 </div>
 

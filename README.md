@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
 [![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
 [![Stars](https://img.shields.io/github/stars/Yangxbao?affiliations=OWNER&style=flat-square&color=e3b341&label=Stars)](https://github.com/Yangxbao?tab=repositories)
-![Repo](https://img.shields.io/badge/公共仓库-9-3fb950?style=flat-square)
+![Repo](https://img.shields.io/badge/公共仓库-10-3fb950?style=flat-square)
 ![Focus](https://img.shields.io/badge/方向-Java_全栈_%2F_AI_应用-7C3AED?style=flat-square)
 
 </div>
@@ -23,12 +23,13 @@
 🎓 信息管理与信息系统专业 · 大三在读
 🌱 正在努力学习专业知识，夯实开发基础
 🔍 当前状态：寻找实习 / 校招机会
-🛠️ 课余喜欢造工具：岗位模拟平台 · 代码库问答 Agent · 刷题 App · 安全签到 · RAG 知识库
+🛠️ 课余喜欢造工具：岗位模拟平台 · 代码库问答 Agent · 刷题 App · 安全签到 · RAG 知识库 · 电脑文件地图
 🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
 ```
 
 ## 🎯 近期在做
 
+- 🗺️ **[windows-file-map](https://github.com/Yangxbao/windows-file-map)** — Windows 本机文件地图助手：只读全量递归扫描整台电脑（124 万+ 条目入库，无条目/深度上限），中文解释每个目录、自动识别开发项目，支持断点续扫 / 增量扫描 / 管理员定向重试，本地网页分页浏览与搜索（纯 Python 标准库，完全离线）
 - 🧪 **[OfferDojo](https://github.com/Yangxbao/OfferDojo)** — 岗位实战模拟练习平台：214 个模拟任务（基础→企业实战四档）+ 10 阶段学习路线图 + 八股复习区 + 追问模拟面试（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
 - 🤖 **[repopilot-ai](https://github.com/Yangxbao/repopilot-ai)** — 代码库知识问答与 Bug 分析 Agent（RAG：导入→索引→检索→证据→引用来源）
 - 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)

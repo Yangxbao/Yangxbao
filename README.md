@@ -29,7 +29,7 @@
 
 ## 🎯 近期在做
 
-- 🗺️ **[本机文件地图与一键清理助手](https://github.com/Yangxbao/windows-file-map)** — 只读全量盘点整台电脑（124 万+ 条目，中文解释每个目录、自动识别开发项目） + 白名单安全一键清理（临时文件与可重建缓存，逐文件日志可追溯、可取消），支持断点续扫 / 增量扫描 / 管理员定向重试（纯 Python 标准库，完全离线）
+- 🗺️ **[本机文件地图与一键清理助手](https://github.com/Yangxbao/windows-file-map)** — 只读全量盘点整台电脑（124 万+ 条目，中文解释每个目录、自动识别开发项目）+ 白名单安全一键清理 v4：打开即预估可释放空间、清理中实时进度与预计剩余时间、完成后持久化「清理完成」横幅（刷新不丢）、逐类写明删除影响、占用/无权限/只读按原因分类跳过、逐文件日志分页与 CSV 导出（纯 Python 标准库，完全离线）
 - 🧪 **[OfferDojo](https://github.com/Yangxbao/OfferDojo)** — 岗位实战模拟练习平台：214 个模拟任务（基础→企业实战四档）+ 10 阶段学习路线图 + 八股复习区 + 追问模拟面试（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
 - 🤖 **[repopilot-ai](https://github.com/Yangxbao/repopilot-ai)** — 代码库知识问答与 Bug 分析 Agent（RAG：导入→索引→检索→证据→引用来源）
 - 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)

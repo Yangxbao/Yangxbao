@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1180" width="760" height="1180" role="img" aria-label="个人技术成长路线图(移动版):起步期已完成,阶段一 Java 后端基础巩固进行中,阶段二 Python 与 AI Agent 入门进行中,阶段三 AI Agent 工程化进阶进行中,阶段四 Java 与 AI 全栈项目主体已落地,阶段五求职冲刺计划中,最终目标 2027 暑期实习">
+  <defs>
+    <linearGradient id="mbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#0E1830"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="mspine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3FB950"/>
+      <stop offset="0.5" stop-color="#E3B341"/>
+      <stop offset="0.62" stop-color="#E3B341"/>
+      <stop offset="0.63" stop-color="#FFFFFF" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="mbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="mglowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mglowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mglowG" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#E3B341" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#E3B341" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="mgrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <filter id="msoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="1180" rx="26" fill="url(#mbg)"/>
+  <rect x="0" y="0" width="760" height="1180" rx="26" fill="url(#mgrid)"/>
+  <ellipse cx="160" cy="60" rx="200" ry="120" fill="url(#mglowB)" filter="url(#msoft)"/>
+  <ellipse cx="620" cy="700" rx="200" ry="160" fill="url(#mglowV)" filter="url(#msoft)"/>
+  <ellipse cx="400" cy="1020" rx="220" ry="110" fill="url(#mglowG)" filter="url(#msoft)"/>
+  <rect x="0.75" y="0.75" width="758.5" height="1178.5" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+    <!-- header -->
+    <text x="56" y="66" font-size="24" font-weight="800" fill="#F0F6FC">学习路线图</text>
+    <text x="56" y="94" font-size="14" fill="#8B949E">2026.11 → 2027 暑期实习 · 双路线并行</text>
+    <g font-size="14" fill="#C9D1D9">
+      <circle cx="64" cy="122" r="5" fill="#58A6FF"/>
+      <text x="76" y="127">Java 路线</text>
+      <circle cx="196" cy="122" r="5" fill="#A78BFA"/>
+      <text x="208" y="127">AI 路线</text>
+      <circle cx="316" cy="122" r="5" fill="url(#mbar)"/>
+      <text x="328" y="127">汇合</text>
+    </g>
+    <g font-size="14" fill="#8B949E">
+      <rect x="416" y="117" width="10" height="10" rx="2" fill="#3FB950"/>
+      <text x="432" y="127">已完成</text>
+      <rect x="512" y="117" width="10" height="10" rx="2" fill="#E3B341"/>
+      <text x="528" y="127">进行中</text>
+      <rect x="608" y="117" width="10" height="10" rx="2" fill="none" stroke="#8B949E" stroke-width="1.5"/>
+      <text x="624" y="127">计划中</text>
+    </g>
+
+    <!-- spine -->
+    <line x1="96" y1="186" x2="96" y2="960" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="3"/>
+    <line x1="96" y1="186" x2="96" y2="750" stroke="url(#mspine)" stroke-width="3.5" stroke-linecap="round"/>
+
+    <!-- n1 起步期 -->
+    <circle cx="96" cy="230" r="9" fill="#3FB950"/>
+    <circle cx="96" cy="230" r="15" fill="none" stroke="#3FB950" stroke-opacity="0.3" stroke-width="2"/>
+    <rect x="130" y="182" width="566" height="96" rx="14" fill="#111B30" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="130" y="182" width="6" height="96" rx="3" fill="#3FB950"/>
+    <text x="158" y="216" font-size="19" font-weight="700" fill="#E6EDF3">起步期 · 2026.09 – 11</text>
+    <text x="158" y="242" font-size="14" fill="#3FB950">已完成:游戏上线 GitHub Pages</text>
+    <text x="158" y="264" font-size="13" fill="#8B949E">6 个项目开源 · DevPilot 平台化 · 真机验收 · 文件地图 v4</text>
+
+    <!-- n2 阶段一 -->
+    <circle cx="96" cy="360" r="9" fill="#58A6FF"/>
+    <rect x="130" y="312" width="566" height="96" rx="14" fill="#111B30" stroke="#58A6FF" stroke-opacity="0.35"/>
+    <rect x="130" y="312" width="6" height="96" rx="3" fill="#58A6FF"/>
+    <text x="158" y="346" font-size="19" font-weight="700" fill="#E6EDF3">阶段一 · Java 后端基础巩固</text>
+    <text x="158" y="372" font-size="14" fill="#8B949E">2026.11 – 2026.12 · <tspan fill="#E3B341">进行中</tspan></text>
+    <text x="158" y="394" font-size="13" fill="#8B949E">Spring · MySQL · Redis · 消息队列 · Docker · JVM</text>
+
+    <!-- n3 阶段二 -->
+    <circle cx="96" cy="490" r="9" fill="#A78BFA"/>
+    <rect x="130" y="442" width="566" height="96" rx="14" fill="#111B30" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <rect x="130" y="442" width="6" height="96" rx="3" fill="#A78BFA"/>
+    <text x="158" y="476" font-size="19" font-weight="700" fill="#E6EDF3">阶段二 · Python 与 AI Agent 入门</text>
+    <text x="158" y="502" font-size="14" fill="#8B949E">2026.12 – 2027.01 · <tspan fill="#E3B341">进行中</tspan></text>
+    <text x="158" y="524" font-size="13" fill="#8B949E">LLM API · Prompt · Function Calling · LangChain</text>
+
+    <!-- n4 阶段三 -->
+    <circle cx="96" cy="620" r="9" fill="#A78BFA"/>
+    <rect x="130" y="572" width="566" height="96" rx="14" fill="#111B30" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <rect x="130" y="572" width="6" height="96" rx="3" fill="#A78BFA"/>
+    <text x="158" y="606" font-size="19" font-weight="700" fill="#E6EDF3">阶段三 · AI Agent 工程化进阶</text>
+    <text x="158" y="632" font-size="14" fill="#8B949E">2027.01 – 2027.03 · <tspan fill="#E3B341">进行中</tspan></text>
+    <text x="158" y="654" font-size="13" fill="#8B949E">RAG · Embedding · 向量库 · 记忆 · MCP · 多 Agent</text>
+
+    <!-- n5 阶段四 汇合 -->
+    <circle cx="96" cy="750" r="10" fill="url(#mbar)"/>
+    <circle cx="96" cy="750" r="17" fill="none" stroke="url(#mbar)" stroke-opacity="0.4" stroke-width="2"/>
+    <rect x="130" y="702" width="566" height="96" rx="14" fill="#111B30" stroke="url(#mbar)" stroke-width="1.5"/>
+    <rect x="130" y="702" width="6" height="96" rx="3" fill="url(#mbar)"/>
+    <text x="158" y="736" font-size="19" font-weight="700" fill="#E6EDF3">阶段四 · Java + AI 全栈项目</text>
+    <text x="158" y="762" font-size="14" fill="#8B949E">2027.03 – 2027.04 · <tspan fill="#E3B341">主体已落地</tspan></text>
+    <text x="158" y="784" font-size="13" fill="#8B949E">两条路线在此汇合:整合 · Docker 部署 · 可演示</text>
+
+    <!-- n6 阶段五 -->
+    <circle cx="96" cy="880" r="9" fill="#0B1220" stroke="#E3B341" stroke-width="2.5" stroke-dasharray="4 3"/>
+    <rect x="130" y="832" width="566" height="96" rx="14" fill="#111B30" stroke="#E3B341" stroke-opacity="0.4" stroke-dasharray="6 3"/>
+    <rect x="130" y="832" width="6" height="96" rx="3" fill="#E3B341" fill-opacity="0.6"/>
+    <text x="158" y="866" font-size="19" font-weight="700" fill="#E6EDF3">阶段五 · 求职冲刺</text>
+    <text x="158" y="892" font-size="14" fill="#8B949E">2027.04 – 暑期 · <tspan fill="#8B949E">计划中</tspan></text>
+    <text x="158" y="914" font-size="13" fill="#8B949E">八股 · 算法 · 简历 · 模拟面试 · 投递</text>
+
+    <!-- target -->
+    <circle cx="96" cy="1010" r="12" fill="#E3B341"/>
+    <circle cx="96" cy="1010" r="20" fill="none" stroke="#E3B341" stroke-opacity="0.4" stroke-width="2">
+      <animate attributeName="r" values="18;28;18" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.4;0.06;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="400" y="1002" font-size="26" font-weight="800" fill="#E3B341" text-anchor="middle">2027 暑期实习</text>
+    <text x="400" y="1032" font-size="15" fill="#8B949E" text-anchor="middle">求职冲刺 · 最终目标</text>
+
+    <!-- milestones chip -->
+    <rect x="56" y="1072" width="648" height="66" rx="14" fill="#3FB950" fill-opacity="0.06" stroke="#3FB950" stroke-opacity="0.3"/>
+    <text x="84" y="1100" font-size="14" fill="#C9D1D9">已达成:OfferDojo · repopilot-ai · docmind · DevPilot</text>
+    <text x="84" y="1124" font-size="13" fill="#8B949E">各阶段详细内容与状态见下方展开说明</text>
+  </g>
+</svg>

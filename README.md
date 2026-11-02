@@ -156,11 +156,82 @@
 
 <div align="center">
 
-<img src="assets/roadmap.svg" width="100%" alt="学习路线:2026.09 起步(HTML 游戏上线 Pages)→ 2026.10 全栈项目密集落地(OfferDojo / docmind 等六个项目开源)→ 2026.11 走向真实场景(DevPilot 平台化、真机验收、文件地图 v4)→ 进行中:补强与打磨(Redis/MQ、DevPilot P1、算法与八股)→ 下一步:探索(向量数据库、多 Agent、实习实践)" />
+<picture>
+  <source media="(max-width: 527px)" srcset="assets/roadmap-mobile.svg" />
+  <img src="assets/roadmap.svg" width="100%" alt="个人技术成长路线图:起步期(2026.09–11,已完成:游戏上线 Pages、6 个项目开源、DevPilot 平台化、真机验收、文件地图 v4)→ 阶段一 Java 后端基础巩固(2026.11–12,进行中)→ 阶段二 Python 与 AI Agent 入门(2026.12–2027.01,进行中)→ 阶段三 AI Agent 工程化进阶(2027.01–03,进行中)→ 阶段四 Java + AI 全栈项目(2027.03–04,两条路线汇合,主体已落地)→ 阶段五 求职冲刺(2027.04 起,计划中)→ 最终目标:2027 暑期实习;下方里程碑:OfferDojo、repopilot-ai、docmind、DevPilot 已达成" />
+</picture>
 
 </div>
 
-当前进行中的事:**Redis / 消息队列补强** · **DevPilot P1**(异步任务队列、Git 历史分析)· **算法与八股** 为实习做准备。
+📍 **总览**:起步期 ✅ 已完成 · 阶段一 ~ 三 🔄 进行中 · 阶段四 🔄 主体已落地 · 阶段五 ⬜ 计划中 —— **最终目标:2027 暑期实习**(AI Agent 优先发展,Java 后端基本盘不放手)
+当前日常:**Redis / 消息队列补强** · **DevPilot P1** · **算法与八股**
+
+<details>
+<summary><b>阶段一 · Java 后端基础巩固</b> · 2026.11 – 2026.12 &nbsp;<img src="https://img.shields.io/badge/状态-进行中-E3B341?style=flat-square" alt="进行中" /></summary>
+
+**学习主题**:把"用过"变成"讲得清",为面试打底。
+
+- ✅ 已实践:`Spring Boot 3` `Spring MVC` `MyBatis-Plus` `MySQL 索引与 FULLTEXT` `Spring Security + JWT` `事务与统一异常` `JUnit 集成测试` `Git / Maven / GitHub Actions CI`
+- 🔄 进行中:`Redis 进阶` `消息队列` `Docker` `并发编程`
+- ⬜ 计划中:`JVM 调优` `计算机网络 / 操作系统专题` `Linux 进阶`
+
+**实战任务**:逐模块吃透 [DevPilot](https://github.com/Yangxbao/DevPilot) 与 [OfferDojo](https://github.com/Yangxbao/OfferDojo) 后端源码并补齐测试;用 OfferDojo 的 125 道八股区同步复习。
+**阶段成果**:面试可讲的后端知识体系 + 一个测试完备的后端项目模板。
+
+</details>
+
+<details>
+<summary><b>阶段二 · Python 与 AI Agent 入门</b> · 2026.12 – 2027.01 &nbsp;<img src="https://img.shields.io/badge/状态-进行中-E3B341?style=flat-square" alt="进行中" /></summary>
+
+**学习主题**:从"调 API"到理解 Agent 的基本构造。
+
+- ✅ 已实践:`Python` `FastAPI`(DevPilot ai-service 真实代码)`OpenAI 兼容 API 适配`(Mock 全链路验证)`自研工具调用编排`(repopilot-ai 五个只读工具)`Prompt 基础实践`
+- 🔄 进行中:`异步编程` `真实大模型调用验证`
+- ⬜ 计划中:`LangChain` `LangGraph` `原生 Function Calling 接入`
+
+**实战任务**:用 LangChain / LangGraph 重写 [repopilot-ai](https://github.com/Yangxbao/repopilot-ai) 的工具编排小样,与自研方案对比取舍。
+**阶段成果**:在 repopilot-ai 基础上,完成一个基于成熟框架的基础 Agent。
+
+</details>
+
+<details>
+<summary><b>阶段三 · AI Agent 工程化进阶</b> · 2027.01 – 2027.03 &nbsp;<img src="https://img.shields.io/badge/状态-进行中-E3B341?style=flat-square" alt="进行中" /></summary>
+
+**学习主题**:让 Agent 从"能跑"到"可依赖"。
+
+- ✅ 已实践:`RAG 全链路 × 3 个项目`(解析 → 分块 → 索引 → 混合检索 → 证据引用)`关键词 + 向量混合检索(RRF)` `基础重排` `Agent 轨迹日志与失败降级`
+- 🔄 进行中:`特征哈希向量 → 真实 Embedding 迁移`
+- ⬜ 计划中:`向量数据库` `Agent 记忆机制` `MCP 工具协议` `多 Agent 协作` `Agent 评估体系`
+
+**实战任务**:推进 [DevPilot](https://github.com/Yangxbao/DevPilot) P1 —— 异步任务队列、Git 历史分析、向量库替换接口落地。
+**阶段成果**:DevPilot 升级为可部署、可观测的 Agent 平台形态。
+
+</details>
+
+<details>
+<summary><b>阶段四 · Java + AI 全栈项目工程化</b> · 2027.03 – 2027.04 &nbsp;<img src="https://img.shields.io/badge/状态-主体已落地-E3B341?style=flat-square" alt="主体已落地" /></summary>
+
+**学习主题**:两条路线在这里汇合成一个完整作品。
+
+- ✅ 已实践(DevPilot 本体):`Java + Python 双服务整合` `RESTful 前后端分离` `Vue 3 前端` `MySQL / Redis 综合应用` `权限管理与接口安全` `测试 + CI`
+- 🔄 进行中:`Docker Compose 部署实测` `性能压测`
+- ⬜ 计划中:`日志监控` `Linux 服务器部署` `Vue / TypeScript 补强`
+
+**里程碑**:一个**完整、可运行、可部署、可演示**的综合项目 —— 以 [DevPilot](https://github.com/Yangxbao/DevPilot) v1.x 为载体持续迭代。
+
+</details>
+
+<details>
+<summary><b>阶段五 · 求职冲刺</b> · 2027.04 – 暑期 &nbsp;<img src="https://img.shields.io/badge/状态-计划中-8B949E?style=flat-square" alt="计划中" /></summary>
+
+**学习主题**:把积累转化为 offer。
+
+- ⬜ 计划中:`Java 面试八股` `AI Agent 面试专题` `数据结构与算法` `项目难点复盘` `简历优化` `模拟面试` `岗位筛选与投递`
+- 🔄 进行中:`GitHub 主页与项目 README 整理`(本次主页改版就是第一步)
+
+**最终目标**:**2027 暑期实习 offer** —— Java 后端 / AI Agent 双线投递。
+
+</details>
 
 <div align="center">
 <img src="assets/divider.svg" width="70%" alt="" />

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Yangxbao - Java 后端开发与 AI Agent 应用开发">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.5" stop-color="#0E1830"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="gtext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.55" stop-color="#8B7CF6"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="gbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.55"/>
+    </linearGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowT" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <filter id="lite" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <ellipse cx="200" cy="30" rx="230" ry="150" fill="url(#glowB)" filter="url(#soft)"/>
+  <ellipse cx="1080" cy="120" rx="240" ry="170" fill="url(#glowV)" filter="url(#soft)"/>
+  <ellipse cx="760" cy="360" rx="200" ry="120" fill="url(#glowT)" filter="url(#soft)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <!-- agent graph motif (right) -->
+  <g>
+    <path d="M848 128 L948 84 L1056 140 L1004 236 L898 206 Z" fill="none" stroke="url(#edge)" stroke-width="1.6" stroke-dasharray="5 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="44" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <line x1="948" y1="84" x2="1132" y2="196" stroke="#58A6FF" stroke-opacity="0.22" stroke-width="1.4"/>
+    <line x1="848" y1="128" x2="898" y2="206" stroke="#7C3AED" stroke-opacity="0.28" stroke-width="1.4"/>
+    <line x1="1004" y1="236" x2="1132" y2="196" stroke="#58A6FF" stroke-opacity="0.22" stroke-width="1.4"/>
+    <circle cx="848" cy="128" r="7" fill="#58A6FF" opacity="0.9"/>
+    <circle cx="948" cy="84" r="6" fill="#7C3AED" opacity="0.9"/>
+    <circle cx="1056" cy="140" r="8" fill="#58A6FF" opacity="0.95" filter="url(#lite)"/>
+    <circle cx="1056" cy="140" r="4.5" fill="#BFDBFE"/>
+    <circle cx="898" cy="206" r="6" fill="#7C3AED" opacity="0.85"/>
+    <circle cx="1004" cy="236" r="7" fill="#2DD4BF" opacity="0.8"/>
+    <circle cx="1132" cy="196" r="5" fill="#C084FC" opacity="0.85"/>
+    <circle cx="1056" cy="140" r="13" fill="none" stroke="#58A6FF" stroke-opacity="0.35" stroke-width="1.2">
+      <animate attributeName="r" values="12;17;12" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.35;0.08;0.35" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- floating code chips -->
+  <g font-family="Consolas,'JetBrains Mono',monospace" font-size="14" text-anchor="middle">
+    <rect x="796" y="30" width="64" height="30" rx="9" fill="#0F1B33" stroke="#58A6FF" stroke-opacity="0.35"/>
+    <text x="828" y="50" fill="#7DD3FC" fill-opacity="0.9">&lt;/&gt;</text>
+    <rect x="1094" y="34" width="72" height="30" rx="9" fill="#0F1B33" stroke="#7C3AED" stroke-opacity="0.4"/>
+    <text x="1130" y="54" fill="#C4B5FD" fill-opacity="0.9">{ }</text>
+    <rect x="1150" y="252" width="40" height="30" rx="9" fill="#0F1B33" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <text x="1170" y="272" fill="#99F6E4" fill-opacity="0.9">λ</text>
+  </g>
+
+  <!-- left: identity -->
+  <g font-family="'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif">
+    <text x="72" y="92" font-size="21" fill="#8B949E">你好,我是</text>
+    <text x="72" y="158" font-size="54" font-weight="800" fill="#F0F6FC" letter-spacing="1">Yangxbao</text>
+    <rect x="76" y="180" width="128" height="6" rx="3" fill="url(#gbar)"/>
+    <text x="72" y="234" font-size="27" font-weight="700" fill="url(#gtext)">Java 后端开发 × AI Agent 应用开发</text>
+
+    <!-- status chips -->
+    <g font-size="15">
+      <rect x="72" y="256" width="272" height="34" rx="17" fill="#111B30" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="92" cy="273" r="4" fill="#58A6FF"/>
+      <text x="104" y="278" fill="#C9D1D9">信息管理与信息系统 · 大三在读</text>
+
+      <rect x="356" y="256" width="186" height="34" rx="17" fill="#111B30" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="376" cy="273" r="4" fill="#3FB950"/>
+      <text x="388" y="278" fill="#C9D1D9">正在寻找实习机会</text>
+
+      <rect x="554" y="256" width="228" height="34" rx="17" fill="#111B30" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <circle cx="574" cy="273" r="4" fill="#E3B341"/>
+      <text x="586" y="278" fill="#C9D1D9">AI 辅助编码 · 真实验证</text>
+    </g>
+
+    <text x="72" y="322" font-size="15" fill="#8B949E">把想法做成能跑、能测、可交付的东西</text>
+  </g>
+</svg>

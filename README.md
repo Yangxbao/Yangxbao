@@ -1,120 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Yangxbao&fontSize=80&fontColor=FFFFFF&color=0:58A6FF,50:7C3AED,100:EC4899&animation=twinkling&desc=%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%20%C2%B7%20%E5%A4%A7%E4%B8%89%E5%9C%A8%E8%AF%BB%20%7C%20%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B8%8E%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A&descSize=18&descAlignY=74" width="100%" alt="Yangxbao Banner" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4" alt="divider" />
-
-**🎓 信息管理与信息系统 · 大三在读 · 🔍 正在找实习 / 求职中**
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=2800&pause=1100&color=7C3AED&center=true&vCenter=true&width=620&height=60&lines=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%20%F0%9F%9A%80;%E4%BB%8E%E8%AF%BE%E5%A0%82%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%EF%BC%8C%E6%AD%A3%E5%9C%A8%E8%B7%AF%E4%B8%8A%20%F0%9F%9B%A0%EF%B8%8F;%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%20%C3%97%20%E7%BC%96%E7%A8%8B%20%3D%20%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%20%E2%9A%A1;%E6%AD%A3%E5%9C%A8%E5%AF%BB%E6%89%BE%E5%AE%9E%E4%B9%A0%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%AD%89%E4%B8%80%E4%B8%AA%E8%88%9E%E5%8F%B0%20%F0%9F%94%8D;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%AF%94%E6%98%A8%E5%A4%A9%E6%9B%B4%E5%BC%BA%20%F0%9F%92%AA" alt="Typing SVG" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Yangxbao-181717?logo=github&style=flat-square)](https://github.com/Yangxbao)
-[![ Followers](https://img.shields.io/github/followers/Yangxbao?label=Followers&style=flat-square&color=58a6ff)](https://github.com/Yangxbao)
-[![Stars](https://img.shields.io/github/stars/Yangxbao?affiliations=OWNER&style=flat-square&color=e3b341&label=Stars)](https://github.com/Yangxbao?tab=repositories)
-![Repo](https://img.shields.io/badge/公共仓库-10-3fb950?style=flat-square)
-![Focus](https://img.shields.io/badge/方向-Java_全栈_%2F_AI_应用-7C3AED?style=flat-square)
+<img src="assets/banner.svg" width="100%" alt="Yangxbao — Java 后端开发 × AI Agent 应用开发 · 信息管理与信息系统在读 · 正在寻找实习机会" />
 
 </div>
-
----
 
 ## 🧭 关于我
 
-```text
-🎓 信息管理与信息系统专业 · 大三在读
-🌱 正在努力学习专业知识，夯实开发基础
-🔍 当前状态：寻找实习 / 校招机会
-🛠️ 课余喜欢造工具：岗位模拟平台 · 代码库问答 Agent · 刷题 App · 安全签到 · RAG 知识库 · 电脑文件地图
-🎮 也爱写点网页小游戏，欢迎逛逛我的仓库！
-```
+我是 **Yangxbao**,信息管理与信息系统专业大三在读。比起罗列"学过什么",我更在意"**做出了什么**":把课堂上和自学中学到的东西,陆续做成了 **十几个能跑、能测、能交付的开源项目** —— 从 AI 研发协作平台、RAG 知识库,到 Android 应用与 Windows 桌面工具。
 
-## 🎯 近期在做
+目前的主线:**Java 后端** 打地基,**AI Agent 应用** 往前冲;开发中大量使用 AI 辅助编码,但每一行进仓库的代码都以"本人实际运行验证"为标准。
 
-- 🗺️ **[本机文件地图与一键清理助手](https://github.com/Yangxbao/windows-file-map)** — 只读全量盘点整台电脑（124 万+ 条目，中文解释每个目录、自动识别开发项目）+ 白名单安全一键清理 v4：打开即预估可释放空间、清理中实时进度与预计剩余时间、完成后持久化「清理完成」横幅（刷新不丢）、逐类写明删除影响、占用/无权限/只读按原因分类跳过、逐文件日志分页与 CSV 导出（纯 Python 标准库，完全离线）
-- 🧪 **[OfferDojo](https://github.com/Yangxbao/OfferDojo)** — 岗位实战模拟练习平台：214 个模拟任务（基础→企业实战四档）+ 10 阶段学习路线图 + 八股复习区 + 追问模拟面试（Spring Boot 3 · MyBatis-Plus · Vue 3 · MySQL，含集成测试与 CI）
-- 🤖 **[repopilot-ai](https://github.com/Yangxbao/repopilot-ai)** — 代码库知识问答与 Bug 分析 Agent（RAG：导入→索引→检索→证据→引用来源）
-- 📱 **[QuizMaster](https://github.com/Yangxbao/QuizMaster)** — 安卓本地刷题 App，拍照 OCR 录题 + 离线刷题，已发布 [v1.0.0](https://github.com/Yangxbao/QuizMaster/releases/tag/v1.0.0)
-- 🧹 **[CleanSweep](https://github.com/Yangxbao/CleanSweep)** — Windows 彻底卸载与残留清理工具，持续打磨清理规则
-- 📚 补基础：数据结构与算法、Java / Spring 生态，为实习做准备
+<details>
+<summary>⚠️ 诚实说明(建议展开看一眼)</summary>
 
-## 🛠️ 技术栈
+- 本页所有项目均为**真实公开仓库**,开发方式为 **AI 辅助编码 + 本人设计、运行与验证**;
+- 各项目的完成情况与未验证边界(如 DevPilot 的 Docker Compose 路径、真实 LLM Provider 效果)都在各自 README 中**如实披露**,不做任何夸大;
+- 页面中的统计数据由第三方服务实时生成,仅作活跃度参考,**不代表技术水平**。
+
+</details>
+
+## ⚡ 技术方向
+
+### ☕ Java 后端 &nbsp;<img src="https://img.shields.io/badge/方向-主力-3FB950?style=flat-square" alt="主力方向" />
+
+<a href="https://github.com/Yangxbao?tab=repositories"><img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,git,github&perline=12" alt="Java / Spring / MySQL / Redis" /></a>
+
+- ✅ **已实践**(在开源项目中实际使用):Spring Boot 3 · MyBatis-Plus · Spring Security / JWT · MySQL 索引与 FULLTEXT · JUnit 集成测试 · GitHub Actions CI
+- 🌱 **正在学习**:Redis 进阶 · 消息队列 · 分布式与微服务 · JVM 调优
+
+### 🤖 AI Agent 应用 &nbsp;<img src="https://img.shields.io/badge/方向-主攻-7C3AED?style=flat-square" alt="主攻方向" />
+
+<a href="https://github.com/Yangxbao?tab=repositories"><img src="https://skillicons.dev/icons?i=python,fastapi&perline=12" alt="Python / FastAPI" /></a>
+
+- ✅ **已实践**(三个项目落地):RAG 全链路(解析 → 分块 → 索引 → 混合检索 → 证据引用)· Agent 工作流与工具白名单 · OpenAI 兼容 Provider 适配与降级
+- 🌱 **正在学习**:向量数据库 · 多 Agent 协作 · 提示词工程
+
+### 📱 移动端与前端 &nbsp;<img src="https://img.shields.io/badge/方向-实践中-58A6FF?style=flat-square" alt="实践中" />
+
+<a href="https://github.com/Yangxbao?tab=repositories"><img src="https://skillicons.dev/icons?i=kotlin,android,vue,ts,html,css&perline=12" alt="Kotlin / Android / Vue / TypeScript" /></a>
+
+- ✅ **已实践**:Kotlin + Jetpack Compose / Room / CameraX / ML Kit(**3 个 Android 应用,2 个发布 Release**)· Vue 3 + Element Plus + Pinia(4 个全栈项目前端)
+- 🌱 **正在学习**:TypeScript 进阶 · 响应式布局
 
 <div align="center">
-
-<a href="https://github.com/Yangxbao?tab=repositories">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,python,kotlin,android,html,css,js,git,github,vscode&perline=12" alt="Tech Stack" />
-</a>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?logo=springboot&logoColor=white&style=flat-square)
-![Vue](https://img.shields.io/badge/Vue_3-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=flat-square)
-![Room](https://img.shields.io/badge/Room-本地数据库-3DDC84?style=flat-square)
-![ML Kit](https://img.shields.io/badge/ML_Kit-离线OCR-4285F4?logo=google&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-
+<img src="assets/divider.svg" width="70%" alt="" />
 </div>
-
-### 技能状态
-
-**已经实践**（做过完整项目并解决过实际问题）：Java · Spring Boot · MyBatis-Plus · Spring Security/JWT · Vue 3 · Element Plus · Kotlin / Android · Python
-
-**正在学习**（有 demo 与教程实践，尚未在项目中独立运用）：Redis 高阶 · 消息队列 · 微服务与分布式 · JVM 深度调优 · 算法进阶
 
 ## 🚀 精选项目
 
+### 🥇 DevPilot — 自托管 AI 研发协作平台
+
+<a href="https://github.com/Yangxbao/DevPilot">
+  <img src="https://raw.githubusercontent.com/Yangxbao/DevPilot/main/docs/screenshots/04-qa-with-evidence.png" width="100%" alt="DevPilot AI 问答界面:回答附带可点击的代码证据引用" />
+</a>
+
+**让"读懂一个陌生代码库"变成可工程化的事**:代码库导入 → 关键词/语义混合检索 → **带证据引用的 AI 问答与 Bug 根因分析** → 缺陷任务闭环。
+
+- 🔎 混合检索:MySQL FULLTEXT 关键词 + FTS5/向量语义,RRF 融合排序,结果带路径与行号
+- 🤖 8 步 Agent 工作流:每条结论附**可点击核对的代码证据**,引用合法性自动核查
+- 🐞 缺陷闭环:AI 分析一键转缺陷,状态机服务端校验,项目数据隔离
+- 🧪 工程质量:20 JUnit + 31 pytest + 3 前端测试 + **18 步 E2E 全链路** + GitHub Actions CI
+
+<img src="https://img.shields.io/badge/状态-三端可运行-3FB950?style=flat-square" alt="状态" />
+<img src="https://img.shields.io/badge/测试-54项自动化_·_18步E2E-3FB950?style=flat-square" alt="测试" />
+<img src="https://img.shields.io/badge/Java-21-blue?style=flat-square" alt="Java 21" />
+<img src="https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?style=flat-square" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Vue-3.5-42B883?style=flat-square" alt="Vue 3" />
+&nbsp; **→ [进入仓库](https://github.com/Yangxbao/DevPilot)**
+
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <a href="https://github.com/Yangxbao/QuizMaster"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=QuizMaster&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="QuizMaster"/></a> | <a href="https://github.com/Yangxbao/docmind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=docmind&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="docmind"/></a> |
-| <a href="https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=DeadManSwitch-SafetyCheckin&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="DeadManSwitch-SafetyCheckin"/></a> | <a href="https://github.com/Yangxbao/CleanSweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=CleanSweep&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="CleanSweep"/></a> |
-| <a href="https://github.com/Yangxbao/repopilot-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=repopilot-ai&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="repopilot-ai"/></a> | <a href="https://github.com/Yangxbao/jobsim-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangxbao&repo=OfferDojo&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="jobsim-ai"/></a> |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yangxbao/OfferDojo">
+        <img src="https://raw.githubusercontent.com/Yangxbao/OfferDojo/main/screenshots/dashboard.png" width="100%" alt="OfferDojo 工作台截图" />
+      </a>
+      <h4><a href="https://github.com/Yangxbao/OfferDojo">🎓 OfferDojo</a></h4>
+      面向大学生的岗位实战模拟平台:<b>220 个模拟任务 + 125 道八股</b>,AI 结构化评估报告,能力雷达。零配置即可一键启动(H2 内嵌库)。
+      <br/>
+      <img src="https://img.shields.io/badge/状态-一键启动_·_CI通过-3FB950?style=flat-square" alt="状态" />
+      <img src="https://img.shields.io/badge/Spring_Boot_3-Vue_3-6DB33F?style=flat-square" alt="技术栈" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yangxbao/repopilot-ai">
+        <img src="https://raw.githubusercontent.com/Yangxbao/repopilot-ai/main/docs/screenshots/qa.png" width="100%" alt="repopilot-ai 代码问答界面:引用文件与行号证据" />
+      </a>
+      <h4><a href="https://github.com/Yangxbao/repopilot-ai">🤖 repopilot-ai</a></h4>
+      代码库知识问答与 Bug 分析 Agent:<b>先检索证据,再让 AI 回答</b>,引用精确到文件 + 行号;检索不到依据时如实回答"无法确定"。DevPilot 的前身。
+      <br/>
+      <img src="https://img.shields.io/badge/状态-H2零依赖演示-3FB950?style=flat-square" alt="状态" />
+      <img src="https://img.shields.io/badge/RAG-证据引用-7C3AED?style=flat-square" alt="RAG" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yangxbao/docmind">
+        <img src="https://raw.githubusercontent.com/Yangxbao/docmind/main/docs/screenshots/01-semantic-search.png" width="100%" alt="DocMind 语义检索界面:相关度百分比与命中片段高亮" />
+      </a>
+      <h4><a href="https://github.com/Yangxbao/docmind">📚 DocMind 智档</a></h4>
+      完全本地的 RAG 文档知识库(检索层):MD / PDF / 截图穿透搜索,<b>相关度百分比 + 片段高亮</b>,自动打标签。数据不出本机,零 API 花费。
+      <br/>
+      <img src="https://img.shields.io/badge/状态-100%25本地_·_免费-3FB950?style=flat-square" alt="状态" />
+      <img src="https://img.shields.io/badge/OCR-扫描件可搜-4285F4?style=flat-square" alt="OCR" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yangxbao/QRCode-Aggregate">
+        <img src="https://raw.githubusercontent.com/Yangxbao/QRCode-Aggregate/main/screenshots/home.jpg" width="100%" alt="ScanAggregator 首页截图" />
+      </a>
+      <h4><a href="https://github.com/Yangxbao/QRCode-Aggregate">📱 ScanAggregator 扫码聚合</a></h4>
+      安卓本地扫码工具:<b>36 个应用快捷唤起</b>、平台识别规则引擎(改 JSON 不改代码)、二维码生成,全程<b>零网络权限</b>。
+      <br/>
+      <img src="https://img.shields.io/badge/状态-v1.1.0_已发布-3FB950?style=flat-square" alt="状态" />
+      <img src="https://img.shields.io/badge/Kotlin-无网权限-7F52FF?style=flat-square" alt="Kotlin" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 📊 GitHub 统计
+### 🧰 更多项目
+
+| 项目 | 一句话介绍 | 状态 |
+|---|---|---|
+| [**QuizMaster**](https://github.com/Yangxbao/QuizMaster) | 拍照 OCR 录题 + 离线刷题 Android App,题库全本地不联网 | ![v1.0.0](https://img.shields.io/badge/APK-v1.0.0_已发布-3FB950?style=flat-square) |
+| [**grandma-home 奶奶的家**](https://github.com/Yangxbao/grandma-home) | 适老化 Android 桌面:大字界面 · 一键通话 · 家属 PIN 管理 | ![真机](https://img.shields.io/badge/状态-真机验收通过-3FB950?style=flat-square) |
+| [**windows-file-map**](https://github.com/Yangxbao/windows-file-map) | 本机文件只读地图 + 白名单安全一键清理,纯 Python 标准库 | ![v4](https://img.shields.io/badge/版本-清理模块_v4-58A6FF?style=flat-square) |
+| [**CleanSweep**](https://github.com/Yangxbao/CleanSweep) | Windows 彻底卸载助手:官方卸载 + 注册表/文件残留清理 | ![可用](https://img.shields.io/badge/状态-可用-3FB950?style=flat-square) |
+| [**wecat-demo**](https://github.com/Yangxbao/wecat-demo) | HTML 小游戏合集:雷霆1942 · 大鱼吃小鱼 · 摸金突围 等 | [▶ 在线可玩](https://yangxbao.github.io/wecat-demo/) |
+| [**FMSR 幻想地图模拟器**](https://github.com/Yangxbao/FMSR-FantasyMapSimulator) | Godot 4.2 重建战争模拟游戏(粉丝项目):战争 · 军队 · 外交 | ![v0.5.3](https://img.shields.io/badge/EXE-v0.5.3_可下载-3FB950?style=flat-square) |
+| [**DeadManSwitch 安全签到**](https://github.com/Yangxbao/DeadManSwitch-SafetyCheckin) | 微信小程序失联签到,超时自动邮件预警(学习 Demo) | ![demo](https://img.shields.io/badge/性质-学习演示-E3B341?style=flat-square) |
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yangxbao&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=Yangxbao&hide_border=true&background=161B22&border=21262D&stroke=0D1117&ring=58A6FF&fire=E3B341&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangxbao&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" alt="Top Langs" />
-
-<!-- 📈 贡献活动曲线（可选）：github-readme-activity-graph 服务可用时取消注释
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yangxbao&hide_border=true&bg_color=161B22&color=E6EDF3&title_color=58A6FF&line=58A6FF&point=EC4899&area=true&area_color=7C3AED&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8%E6%9B%B2%E7%BA%BF" width="100%" alt="贡献活动曲线" />
--->
-
+<img src="assets/divider.svg" width="70%" alt="" />
 </div>
 
-## 🐍 贡献图
+## 📊 GitHub 数据
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yangxbao&show_icons=true&hide_border=true&bg_color=0D1526&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="GitHub 统计" />
+<img src="https://streak-stats.demolab.com?user=Yangxbao&hide_border=true&background=0D1526&border=1B2A4A&stroke=0D1526&ring=58A6FF&fire=E3B341&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="165" alt="连续提交" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangxbao&layout=compact&hide_border=true&bg_color=0D1526&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="42%" alt="语言分布" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Yangxbao/Yangxbao/output/snake.svg" alt="贡献贪吃蛇动画" />
 </picture>
 
+</div>
+
+## 🗺️ 学习路线
+
+<div align="center">
+
+<img src="assets/roadmap.svg" width="100%" alt="学习路线:2026.09 起步(HTML 游戏上线 Pages)→ 2026.10 全栈项目密集落地(OfferDojo / docmind 等六个项目开源)→ 2026.11 走向真实场景(DevPilot 平台化、真机验收、文件地图 v4)→ 进行中:补强与打磨(Redis/MQ、DevPilot P1、算法与八股)→ 下一步:探索(向量数据库、多 Agent、实习实践)" />
+
+</div>
+
+当前进行中的事:**Redis / 消息队列补强** · **DevPilot P1**(异步任务队列、Git 历史分析)· **算法与八股** 为实习做准备。
+
+<div align="center">
+<img src="assets/divider.svg" width="70%" alt="" />
 </div>
 
 ## 📫 联系我
 
 <div align="center">
 
-💬 欢迎通过 [GitHub Issues](https://github.com/Yangxbao?tab=repositories) 与我交流 · 一起搞点好玩的东西！
+<img src="assets/footer.svg" width="100%" alt="感谢你的到访 · 欢迎一起做点有趣的东西" />
 
-<!-- 📮 邮箱（取消注释并替换为你的邮箱）
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email-EA4335?logo=gmail&logoColor=white&style=flat-square"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-@Yangxbao-181717?logo=github&style=for-the-badge)](https://github.com/Yangxbao)
+[![项目仓库](https://img.shields.io/badge/项目仓库-全部-3FB950?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Yangxbao?tab=repositories)
+[![在线小游戏](https://img.shields.io/badge/🎮_在线小游戏-wecat_demo-58A6FF?style=for-the-badge)](https://yangxbao.github.io/wecat-demo/)
+[![Issues 交流](https://img.shields.io/badge/Issues-欢迎交流-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yangxbao)
+
+<!-- 📮 邮箱(取消注释并替换为你的邮箱)
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 -->
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&text=THANKS%20FOR%20VISITING&fontSize=32&fontColor=FFFFFF&color=0:58A6FF,50:7C3AED,100:EC4899&animation=fadeIn" width="100%" alt="Footer" />
 
 </div>

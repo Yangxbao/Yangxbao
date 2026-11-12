@@ -48,6 +48,30 @@
 
 ## 🚀 精选项目
 
+### 🏆 AgentOS — AI 数字员工协作操作系统（最新主打）
+
+<a href="https://github.com/Yangxbao/AgentOS">
+  <img src="https://raw.githubusercontent.com/Yangxbao/AgentOS/main/docs/assets/approval-site-preview.png" width="100%" alt="AgentOS 审批卡片内嵌 AI 员工交付的网站实际渲染" />
+</a>
+
+**给 AI 一家公司，而不是一个聊天框**:组织架构/岗位/权限 → 任务派工 → 多 Agent 受控执行 → 人工签收。
+下面的星舟科技企业官网由 **7 名 AI 员工经 9 步流水线零人工干预交付**(74.7 万 tokens,11 次审批留痕),人类只做任务定义与最终验收。
+
+- 🏢 **AI 公司组织**:部门/岗位/汇报链/组织图(点击展开员工,零重叠布局)
+- 🧰 **工具治理**:五层权限 · 工作区授权 · AI 看图(多模态) · 逐次审计 · 预算熔断
+- ✅ **人工签收**:审批卡片**内嵌交付网站的实际渲染**,看着成果批而不是读文档猜
+- 🧠 **长期记忆**:三级作用域 + FTS5 中文 2-gram 检索,自动注入执行上下文
+- 🧪 **工程质量**:392 项自动化测试 + 32 项真浏览器验收 + ruff 全绿 + 全历史零密钥
+
+<img src="https://img.shields.io/badge/状态-Local_First_·_MIT-3FB950?style=flat-square" alt="状态" />
+<img src="https://img.shields.io/badge/测试-392项通过-3FB950?style=flat-square" alt="tests" />
+<img src="https://img.shields.io/badge/浏览器验收-32%2F32-blue?style=flat-square" alt="browser" />
+<img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-0.162-009688?style=flat-square" alt="FastAPI" />
+<img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square" alt="React" />
+&nbsp; **→ [进入仓库](https://github.com/Yangxbao/AgentOS)**
+
+
 ### 🥇 DevPilot — 自托管 AI 研发协作平台
 
 <a href="https://github.com/Yangxbao/DevPilot">
